@@ -26,6 +26,6 @@ client.registry
 
     client.on('ready', () => {
         console.log('Logged in!');
-        client.user.setActivity('S0n1c\'s Bot');
+        client.user.setActivity('iOS Bot | prefix: /');
     });
 client.login(authToken);
