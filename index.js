@@ -16,6 +16,7 @@ client.registry
     .registerDefaultTypes()
     .registerGroups([
         ['misc', 'All the stuff']
+        ['enforcement', 'Maintaining order']
     ])
     .registerDefaultGroups()
     .registerDefaultCommands({
